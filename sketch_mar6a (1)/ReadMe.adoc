@@ -28,11 +28,11 @@ Upload the code contained in this sketch on to your board
 === Folder structure
 
 ....
- sketch123                => Arduino sketch folder
-  ├── sketch_mar6a.ino       => main Arduino file
-  ├── schematics.png      => (optional) an image of the required schematics
-  ├── layout.png          => (optional) an image of the layout
-  └── ReadMe.adoc         => this file
+ sketch123                                         => Arduino sketch folder
+  ├── sketch_mar6a.ino                             => main Arduino file
+  ├── Pin diagram of Arduino BLE 33 Sense.png      => (optional) an image of the required schematics
+  ├── Overview of Hardware Setup.png               => (optional) an image of the layout
+  └── ReadMe.adoc                                  => this file
 ....
 
 === License
