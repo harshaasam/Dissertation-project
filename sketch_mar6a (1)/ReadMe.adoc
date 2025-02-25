@@ -6,7 +6,7 @@
 
 = Project: {Project}
 
-Describe your project
+To develop a system to predict the soil moisture levels inside a cricket stadium by integrating IoT sensors with AI.
 
 == Step 1: Installation
 Please describe the steps to install this project.
